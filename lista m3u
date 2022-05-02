@@ -87,6 +87,14 @@ https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="Filmes e Series", TV CINE - Chaves
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes e Series",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes e Series",CLASSIQUE TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes e Series",CLASSIQUE TV WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aZRobKc.png" group-title="Filmes e Series",CLASSIQUE NOIR TV
+https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="Filmes e Series", TV Series
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Series",TV SERIES 1 AS PANTERAS
