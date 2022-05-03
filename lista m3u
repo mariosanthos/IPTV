@@ -61,8 +61,6 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="🌎Variedades",Agro Canal
 https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="🌎Variedades", Rede Brasil (SP)
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="🌎Variedades", Rede Metropole
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="🌎Variedades", TV Uniao (CE)
@@ -142,6 +140,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🧸Infantil", Vintage TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🧸Infantil", XTreme
+https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",📰 Noticias
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
@@ -195,8 +195,6 @@ https://lib.bz/video/site_gerou.mp4
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="🌏WebTV", Striker Verso
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🌏WebTV", XTreme
-https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🌏WebTV", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png" group-title="🌏WebTV", TV Liberdade 
