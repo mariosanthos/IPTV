@@ -131,11 +131,11 @@ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 https://lib.bz/video/site_gerou.mp4
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🧸Infantil", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" título de grupo="🧸Infantil", Retro Cartoon Br
+#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon Br
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="🧸Infantil", Retro Cartoon
+#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="🧸Infantil", Retro Cartoon 2
+#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🧸Infantil", Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
