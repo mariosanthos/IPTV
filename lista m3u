@@ -140,9 +140,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🧸Infantil", Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🧸Infantil", XTreme
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",📰 Noticias
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News
