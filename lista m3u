@@ -89,6 +89,12 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMQwdwEbc-Sqr83fPFBKnqUwsU6TqU96Xc4Sr_AjgVYRdzGBAj_Ruw2KqaUqTskSMOJq9yCvgeLnQVnVAGLWsAdESoG5jXUNxWFmOnltv6N0dnZGTB9AJI1CtOPJPTGl7w98HjP9qhRbXJ20GWyBsALg43lhV-5YIcgxLyKRbUf4JyNWffEoOBQnwE/w1200-h630-p-k-no-nu/RS%20NEWS%20SPORTS.webp" group-title="⚽️Esportes",RS NEWS SPORTS TV
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",📰 Noticias
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo-0-2048x2048.png" group-title="📰Noticias", Joven Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🎬 Filmes e Series
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="	https://blogger.googleusercontent.com/img/a/AVvXsE…Dg_20wUcEB_Er3Ut2G4HwOSLpmcu=w1200-h630-p-k-no-nu" group-title="🎬Filmes e Series",RUNTIME AÇÃO
@@ -153,12 +159,6 @@ https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🧸Infantil", XTreme
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",📰 Noticias
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/pla.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo-0-2048x2048.png" group-title="📰Noticias", Joven Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🙏 Religiosos
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="🙏Religioso",TV Evangelizar
