@@ -9,9 +9,7 @@ https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w2065
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/br-tv-assembleia-piaui.jpg" group-title="📺Canais locais", TV Assembleia (PI)
 https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w1514361945.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
-https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺Canais locais",TV Antena 10
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78c1x7MeWbyxqAkBzR6lqRnQ_f5oSj19-7fXA=s900-c-k-c0xffffffff-no-rj-mo" group-title="📺Canais locais",TV Antena 10
 https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="📺Canais locais", RedeTV! O Dia (PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
@@ -19,6 +17,10 @@ https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
 https://cdn-piaui-8128-1.ciclano.io:1443/piaui-8128-1/piaui-8128-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="📺Canais locais", TV Gallo (jacós)
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7667/cabecalho-7667-20210910173631.jpg" group-title="📺Canais locais", TV LUZILÂNDIA
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1312684362.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", 🌍 Variedades
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Interior SP
