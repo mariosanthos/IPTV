@@ -199,8 +199,6 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🌏WebTV", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png" group-title="🌏WebTV", TV Liberdade 
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",📻 Radio Locais
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio33781_1444124549.jpg" group-title="📻Radio Locais",Rádio Esperança de Picos 850 AM
