@@ -129,6 +129,8 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🎎Infantil", Rede Clone
+https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🧸 Infantil
 https://lib.bz/video/site_gerou.mp4
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🧸Infantil", Os Jetsons
@@ -199,8 +201,6 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png" group-title="🌏WebTV", TV Liberdade 
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🌏WebTV", Rede Clone
-https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",📻 Radio Locais
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio33781_1444124549.jpg" group-title="📻Radio Locais",Rádio Esperança de Picos 850 AM
