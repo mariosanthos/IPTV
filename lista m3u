@@ -101,10 +101,16 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🎬 Filmes e Series
 https://lib.bz/video/site_gerou.mp4
-#EXTINF:-1 tvg-logo="	https://blogger.googleusercontent.com/img/a/AVvXsE…Dg_20wUcEB_Er3Ut2G4HwOSLpmcu=w1200-h630-p-k-no-nu" group-title="🎬Filmes e Series",RUNTIME AÇÃO
+ RUNTIME 
+#EXTINF:-1 tvg-logo="" group-title="🎬Filmes e Series", RUNTIME TV e Flime
+
+
 https://stream.ads.ottera.tv/cl/10db2c30-c1f9-49e7-8b07-20f706f9249f/1280x720_3071200_0_false.m3u8
-#EXTINF:-1 tvg-logo="	https://blogger.googleusercontent.com/img/a/AVvXsE…Dg_20wUcEB_Er3Ut2G4HwOSLpmcu=w1200-h630-p-k-no-nu" group-title="🎬Filmes e Series",RUNTIME COMÉDIA
-https://stream.ads.ottera.tv/cl/10db2c30-c1f9-49e7-8b07-20f706f9249f/1280x720_3071200_0_false.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🎬Filmes e Series", RUNTIME AÇÃO
+https://stream.ads.ottera.tv/cl/56773f93-d387-42ad-b0b6-f789764e9995/1280x720_2300000_0_false.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🎬Filmes e Series",RUNTIME COMÉDIA
+https://stream.ads.ottera.tv/cl/012a1917-35cf-4018-96fa-392550e830da/1280x720_3071200_0_false.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://abre.ai/eqhF " group-title="🎬Filmes e Series", TV CLÁSSICOS DO CINEMA
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
