@@ -85,8 +85,14 @@ https://lib.bz/video/site_gerou.mp4
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="⚽️Esportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMQwdwEbc-Sqr83fPFBKnqUwsU6TqU96Xc4Sr_AjgVYRdzGBAj_Ruw2KqaUqTskSMOJq9yCvgeLnQVnVAGLWsAdESoG5jXUNxWFmOnltv6N0dnZGTB9AJI1CtOPJPTGl7w98HjP9qhRbXJ20GWyBsALg43lhV-5YIcgxLyKRbUf4JyNWffEoOBQnwE/w1200-h630-p-k-no-nu/RS%20NEWS%20SPORTS.webp" group-title="⚽️Esportes",RS NEWS SPORTS TV
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🎬 Filmes e Series
 https://lib.bz/video/site_gerou.mp4
+#EXTINF:-1 tvg-logo="	https://blogger.googleusercontent.com/img/a/AVvXsE…Dg_20wUcEB_Er3Ut2G4HwOSLpmcu=w1200-h630-p-k-no-nu" group-title="🎬Filmes e Series",RUNTIME AÇÃO
+https://stream.ads.ottera.tv/cl/43e7f551-94f4-4620-b7c7-f6a003811edd/1280x720_2300000_0_false.m3u8
+#EXTINF:-1 tvg-logo="	https://blogger.googleusercontent.com/img/a/AVvXsE…Dg_20wUcEB_Er3Ut2G4HwOSLpmcu=w1200-h630-p-k-no-nu" group-title="🎬Filmes e Series",RUNTIME COMÉDIA
+https://stream.ads.ottera.tv/cl/e50dca26-2b76-43c5-a208-0e3c5785b479/1280x720_2300000_0_false.m3u8
 #EXTINF:-1 tvg-logo="https://abre.ai/eqhF " group-title="🎬Filmes e Series", TV CLÁSSICOS DO CINEMA
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 #EXTINF:-1 tvg-logo="https://storage.stwonline.com.br/180graus/uploads/figure_rectangular/data/1661226/large_eu-a-patroa-e-as-crian-as.png" group-title="🎬Filmes e Series", Eu A patroa e as Crianças
@@ -199,6 +205,8 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🌏WebTV", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png"" group-title="🌏WebTV", PORTAL NEWS
+https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",📻 Radio Locais
 https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio33781_1444124549.jpg" group-title="📻Radio Locais",Rádio Esperança de Picos 850 AM
