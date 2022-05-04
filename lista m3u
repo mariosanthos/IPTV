@@ -137,7 +137,7 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🎎Infantil", Rede Clone
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🎎Animes", Rede Clone
 https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🧸 Infantil
 https://lib.bz/video/site_gerou.mp4
