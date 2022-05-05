@@ -57,8 +57,6 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="🌎Variedades",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="🌎Variedades",Agro Mais
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-diario-logo-0A396604AE-seeklogo.com.png" group-title="🌎Variedades", TV Diario 
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSagJXzO4LBaWOciBZtfETDsvjmazlmfGQRS1TbHB2tS)/dm/3/x7txn7q/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="🌎Variedades",Canal Rural
