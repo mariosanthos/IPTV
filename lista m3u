@@ -21,7 +21,7 @@ https://cdn-piaui-8128-1.ciclano.io:1443/piaui-8128-1/piaui-8128-1/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
 https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7667/cabecalho-7667-20210910173631.jpg" group-title="📺Canais locais", TV LUZILÂNDIA
+#EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7667/cabecalho-7667-20210910173631.jpg" group-title="📺Canais locais", TV Luzilandia
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1312684362.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", 🌍 Variedades
 https://lib.bz/video/site_gerou.mp4
