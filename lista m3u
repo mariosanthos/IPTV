@@ -155,10 +155,8 @@ https://lib.bz/video/site_gerou.mp4
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🧸Infantil", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon Br
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🧸Infantil", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="🧸Infantil", Gospel Cartoon
