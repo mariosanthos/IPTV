@@ -69,7 +69,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="🌎Variedades", Rede Metropole
 http://187.33.200.235:9000/hls/redemetropole.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="🌎Variedades", TV Uniao (CE)
+#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV CARIRI
+https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="🌎Variedades", TV Uniao (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
