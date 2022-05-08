@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="", iptv.gratis
+#EXTINF:-1 tvg-logo="" group-title="📺Canais locais", iptv.gratis
 https://github.com/mariosanthos/arquivos/raw/main/iptv%20314.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais locais", 📺 Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
@@ -21,8 +21,6 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7667/cabecalho-7667-20210910173631.jpg" group-title="📺Canais locais", 📺 TV Luzilandia
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1312684362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", 🌍 Variedades
-https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", 🌎 SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", 🌎 SBT Rede Massa (PR)
@@ -121,8 +119,6 @@ https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXWIWQ-kY2qdklabey2a12JUuFdRz0EkirtCr4jPJ7nwsMiPUWDtcOfN3EIyLeasXbZxrrk8BDvMahUqj8r7c60YQN1dRJIQ9XMYv1Qo_dQ9TeN76_3R4HPt4FyuyLDgfIbGkFLVqLBx34fkqMGERxoXZwkB6SqZzAVBlNDPMdg8chUaiaLYUPJKoW/w1200-h630-p-k-no-nu/TVS%20KIDS%20E%20S%C3%89RIES.webp" group-title="🎬Filmes e Séries",🎬 TVS
 https://stmv1.srvif.com/tvskids/tvskids/chunklist_w1541221778.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", 🎎 Animes
-https://lib.bz/video/site_gerou.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="🎎Animes", 🎎 Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="🎎Animes", 🎎 Anime TV 2
