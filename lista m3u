@@ -71,9 +71,9 @@ https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
 https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B5yUTaeIUHw/maxresdefault_live.jpg" group-title="BRASIL", TV Padre Cicero
+#EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="🌎Variedades", TV Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kCy7RWq.png" group-title="BRASIL", TV Maceio
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B5yUTaeIUHw/maxresdefault_live.jpg" group-title="🌎Variedades", TV Maceio
 https://srv5.zcast.com.br/paulo4100/paulo4100/chunklist_w1645811884.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="🌎Variedades", TV Uniao (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
