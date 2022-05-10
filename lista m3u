@@ -7,7 +7,7 @@ https://lib.bz/video/site_gerou.mp4
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais locais", Cidade Verde Picos (PI)
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f221ef07c8762196cd782faaee34626.webp" group-title="📺Canais locais",TV Do Povo (Meio Norte)
+#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="📺Canais locais",TV Do Povo (Meio Norte)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/br-tv-assembleia-piaui.jpg" group-title="📺Canais locais", TV Assembleia (PI)
 https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w1514361945.m3u8
@@ -71,10 +71,10 @@ https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
 https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="BRASIL", TV Padre Cicero
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B5yUTaeIUHw/maxresdefault_live.jpg" group-title="BRASIL", TV Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kCy7RWq.png" group-title="BRASIL", TV Maceio
-https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
+https://srv5.zcast.com.br/paulo4100/paulo4100/chunklist_w1645811884.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="🌎Variedades", TV Uniao (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="🌎Variedades", Rede Família
