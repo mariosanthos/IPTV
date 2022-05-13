@@ -33,8 +33,6 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", RecordTV MT 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", RecordTV RN
-https://59f1cbe63db89.streamlock.net:1443/tropicalrn/_definst_/tropicalrn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades", Band
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="🌎Variedades",Band - RBA TV (PA)
@@ -59,14 +57,10 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="🌎Variedades",Canal Rural
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canaldoboi.png" group-title="🌎Variedades",Canal do Boi
-https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="🌎Variedades", TV Verdes Campos SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="🌎Variedades", Rede Metropole
-http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
 https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="🌎Variedades", TV Padre Cicero
