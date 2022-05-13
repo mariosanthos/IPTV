@@ -129,7 +129,6 @@ https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXWIWQ-kY2qdklabey2a12JUuFdRz0EkirtCr4jPJ7nwsMiPUWDtcOfN3EIyLeasXbZxrrk8BDvMahUqj8r7c60YQN1dRJIQ9XMYv1Qo_dQ9TeN76_3R4HPt4FyuyLDgfIbGkFLVqLBx34fkqMGERxoXZwkB6SqZzAVBlNDPMdg8chUaiaLYUPJKoW/w1200-h630-p-k-no-nu/TVS%20KIDS%20E%20S%C3%89RIES.webp" group-title="🎬Filmes e Series", TVS
 https://stmv1.srvif.com/tvskids/tvskids/chunklist_w1541221778.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🎬Filmes e Series", XTreme
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🎎 Animes
@@ -140,8 +139,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv1.srvsh.com.br/animetv2/animetv2/chunklist_w488843078.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animestation.png" group-title="🎎Animes", Anime Station
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="🎎Animes", AniTV
-https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://anitv.live/promos/website.jpg" group-title="🎎Animes", AniTV
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🎎Animes", Rede Clone
