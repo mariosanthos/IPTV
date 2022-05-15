@@ -61,6 +61,8 @@ https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades",
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
 https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="🌎Variedades", TV Padre Cicero
