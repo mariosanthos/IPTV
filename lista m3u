@@ -209,3 +209,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png"" group-title="🎶Música", PORTAL NEWS
 https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FULL HD" tvg-logo="https://2.bp.blogspot.com/-wHhXOFoqjAE/Wg7x8KwqO_I/AAAAAAABHI/WltMl3al1DgIWQRMEvqBc05s5OhXIJdsgCPcBGAYYCw/ s1600/globorj.png" group-title="CANAIS GLOBO",GLOBO RJ FULL HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/4796.ts
+
