@@ -107,8 +107,6 @@ https://lib.bz/video/site_gerou.mp4
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://storage.stwonline.com.br/180graus/uploads/figure_rectangular/data/1661226/large_eu-a-patroa-e-as-crian-as.png" group-title="🎬Filmes e Series", Eu A patroa e as Crianças
-https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="🎬Filmes e Series", TV CINE - Chaves
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
