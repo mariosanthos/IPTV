@@ -153,6 +153,8 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🧸 Infantil
 https://lib.bz/video/site_gerou.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="🧸Infantil",TV POMBAL
+https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="🧸Infantil", Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🧸Infantil", Os Jetsons
