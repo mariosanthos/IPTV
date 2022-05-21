@@ -62,7 +62,8 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/06/receptor-abre-tv-diario.jpg" group-title="🌎Variedades", TV Diario
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZftM8mpr09TmbfL_WND0ZafWh03NeyHvm_9TkRVX3VGx)/dm/3/x7txn7q/s/live-3.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceará 
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
@@ -83,6 +84,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="🌎Variedades", TV Camera
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="🧸Infantil",TV Pombal
+https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-61ONLT4Bbl4/YTZkmOlD2XI/AAAAAAAAFbc/4xLocTkJjWcDyK3XkiGBZvJJybuFCKu7gCLcBGAsYHQ/w1200-h630-p-k-no-nu/TV%2BCHANNEL%2BNETWORK.webp" group-title="🌎Variedades",TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="🌎Variedades", Bons Tempos TV
@@ -108,7 +111,8 @@ http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="🎬Filmes e Series", TV CINE - Chaves
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV 2
@@ -153,8 +157,6 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",🧸 Infantil
 https://lib.bz/video/site_gerou.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="🧸Infantil",TV Pombal
-https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="🧸Infantil", Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🧸Infantil", Os Jetsons
