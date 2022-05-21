@@ -209,6 +209,3 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png"" group-title="🎶Música", PORTAL NEWS
 https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/hhginmz.png" group-title="BRASIL",CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
