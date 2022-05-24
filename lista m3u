@@ -57,9 +57,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/06/receptor-abre-tv-diario.jpg" group-title="🌎Variedades", TV Diario
-
-
 #EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceará 
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
@@ -108,9 +105,6 @@ http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/IMG-20220523-WA0002.jpg" group-title="🎬Filmes e Series", Cine Life Classic
 https://alanza.iptv2022.com/CLC/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="🎬Filmes e Series", TV CINE - Chaves
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV 2
