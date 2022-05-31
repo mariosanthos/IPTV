@@ -181,7 +181,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="🙏Religioso",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/musica.logo.png" group-title="", 🎶 Musicas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/musica.logo.webp" group-title="", 🎶 Musicas
 https://github.com/mariosanthos/arquivos/raw/main/iptv.gratis.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="🎶Música", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
