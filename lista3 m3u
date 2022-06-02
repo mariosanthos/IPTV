@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/iptv.golo.jpg" group-title="📺Canais", iptv.gratis
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/iptv.golo.jpg" group-title="📺Canais", 01 iptv.gratis
 https://github.com/mariosanthos/arquivos/raw/main/iptv.gratis.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais", SBT Cidade Verde (PI)
