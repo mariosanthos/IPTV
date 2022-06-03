@@ -107,7 +107,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://github.com/mariosanthos/arquivos/raw/main/iptv.gratis.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="🎬Filmes e Series", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎬Filmes e Series", Viva Web TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viva.web.tv.logo.jpg" group-title="🎬Filmes e Series", Viva Web TV
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🎬Filmes e Series", XTreme
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
