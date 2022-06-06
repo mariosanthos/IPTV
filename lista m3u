@@ -99,7 +99,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="🎬Filmes e Series", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-logo.png" título do grupo="🎬Filmes e Séries", Runtime
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-logo.png" group-title="🎬Filmes e Series"", Runtime
 https://stream.ads.ottera.tv/cl/7af38a57-f174-4d43-acb9-2ff16776dd3d/854x480_1355200_2_false.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viva.web.tv.logo.jpg" group-title="🎬Filmes e Series", Viva Web TV
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
