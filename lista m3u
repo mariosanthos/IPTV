@@ -131,7 +131,7 @@ https://stmv1.srvsh.com.br/animetv2/animetv2/chunklist_w488843078.m3u8
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://anitv.live/promos/website.jpg" group-title="🎎Animes", AniTV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes",Loading
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes", Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🎎Animes", Rede Clone
 https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
