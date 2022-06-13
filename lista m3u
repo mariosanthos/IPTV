@@ -123,9 +123,9 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Guerra Sombra e Água Frasca
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" título do grupo="🎬Filmes e Séries", Agente 86
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Séries", Agente 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" título do grupo="🎬Filmes e Séries", Os Três Patetas 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Séries", Os Três Patetas 
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="🎬Filmes e Series", As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
