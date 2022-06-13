@@ -77,6 +77,10 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="🌎Variedades", TV Camera
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1BDdHaHnhocilo3ffZD4sagRFym25CMDYgY9APGI59fLgktmMF7H3kSLUwetZX3w72D274QwE9PpOLGuMjTiJURSuC5bPNnW_wotW2WJBXIRU2J_Vl98u6gv-yb4Yyuju3YBR3QYR973vTnkbDb9z7-Cmy0Fozt7y8BJM0gPi10Pqqn1NInmXuAIK=w1200-h630-p-k-no-nu" group-title="🌎Variedades", TV educadora 
+https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="🌎Variedades", SescTV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="⚽️Esportes", Red Bull TV
@@ -106,7 +110,9 @@ https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🎬Filmes e Series", XTreme
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="🎬Filmes e Series",kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+https://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114…-d937-57bd-ab5b-a50ef935f6b8/source/512x512bb.jpg" group-title="🎬Filmes e Series", TV nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1216624718.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
@@ -117,6 +123,10 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Guerra Sombra e Água Frasca
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" título do grupo="🎬Filmes e Séries", Agente 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" título do grupo="🎬Filmes e Séries", Os Três Patetas 
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="🎬Filmes e Series", As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="🎬Filmes e Series", Mulher Bionica
