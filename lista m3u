@@ -111,7 +111,7 @@ https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="🎬Filmes e Series",kuriakos Cine
 https://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114…-d937-57bd-ab5b-a50ef935f6b8/source/512x512bb.jpg" group-title="🎬Filmes e Series", TV Nova Play
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.jpg" group-title="🎬Filmes e Series", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1216624718.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
