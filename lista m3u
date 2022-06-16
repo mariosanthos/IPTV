@@ -7,7 +7,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="📺Canais locais",TV Do Povo (Meio Norte)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/br-tv-assembleia-piaui.jpg" group-title="📺Canais locais", TV Assembleia (PI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20assembleia%20.jpg" group-title="📺Canais locais", TV Assembleia (PI)
 https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w1514361945.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78c1x7MeWbyxqAkBzR6lqRnQ_f5oSj19-7fXA=s900-c-k-c0xffffffff-no-rj-mo" group-title="📺Canais locais",TV Antena 10
 https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
