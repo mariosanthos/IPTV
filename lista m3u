@@ -57,7 +57,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceará 
+#EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceara
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
 https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
@@ -121,11 +121,11 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV Western
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Guerra Sombra e Água Frasca
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Guerra Sombra e Agua Frasca
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Agente 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Os Três Patetas 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="🎬Filmes e Series", Os Tres Patetas 
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="🎬Filmes e Series", As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
@@ -199,5 +199,5 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="🎶Música", KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png"" group-title="🎶Música", PORTAL NEWS
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png"" group-title="🎶Música", Portal News
 https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
