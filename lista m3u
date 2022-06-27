@@ -21,6 +21,8 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7667/cabecalho-7667-20210910173631.jpg" group-title="📺Canais locais", TV Luzilandia (PI)
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1312684362.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656392798/ei/_Te6YsHgLNSMxASy-rfgCw/ip/45.164.58.3/id/ABVQXgr2LW4.4/source/yt_live_broadcast/requiressl/yes/tx/24116419/txs/24116419%2C24116420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/spc/4ocVC_T0u8I8PzXxHFJLCtPLhPYT_r6knMhq6cZRfoPH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMvu_Yor02Wz94XRttulWsP2qhU2nRLcxiorvaatAcY0CIE_85fHZDq2jAVFfJmUYDJVaWUQzm9D6-OkiOieJeRXg/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Rede Massa (PR)
