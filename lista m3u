@@ -108,7 +108,7 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viva.web.tv.logo.jpg" group-title="🎬Filmes e Series", Viva Web TV
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🎬Filmes e Series", XTreme
-https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w569697233.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="🎬Filmes e Series",kuriakos Cine
 https://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.jpg" group-title="🎬Filmes e Series", TV Nova Play
