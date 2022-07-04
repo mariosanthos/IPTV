@@ -71,6 +71,8 @@ https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png" group-title="🌎Variedades", TV8 Brasil
 https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvt.org.br/wp-content/uploads/2016/09/THUMB_TVTvivo.jpg" group-title="🌎Variedades", TVT
+https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G_cOcasua--_JaS06EXXxcysgOr7dFHCbgLSE5TfVEHV)/dm/3/x6ph7x7/d/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="🌎Variedades", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="🌎Variedades", Rede Brasil (SP)
