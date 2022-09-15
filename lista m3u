@@ -57,14 +57,14 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceara
-https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
-https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv.diario.logo.png" group-title="🌎Variedades", TV Diario
 https://stream-05.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZX-3H5TKp9Hf8P6AIwdJzbNYG7mtxCsIV_CJT18Onibx)/dm/3/x7txn7q/s/live-2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceara
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
+https://video01.kshost.com.br:4443/felizardo3523/felizardo3523/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="🌎Variedades", TV Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B5yUTaeIUHw/maxresdefault_live.jpg" group-title="🌎Variedades", TV Maceio
