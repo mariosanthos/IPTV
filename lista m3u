@@ -59,7 +59,7 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv.diario.logo.png" group-title="🌎Variedades", TV Diario
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVEfIAhmACd-rXcbIPWRKHvKFjTIVmMHVVrdsdFRj90Q)/dm/3/x7txn7q/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVfTgWUkMsR7dZu0kNvqVTfA6YR5a5u7Luk_k_OovmxB)/dm/3/x7txn7q/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceara
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
@@ -203,3 +203,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png" group-title="🎶Música", Portal News
 https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
