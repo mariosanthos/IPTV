@@ -55,10 +55,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv.diario.logo.png" group-title="🌎Variedades", TV Diario
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVfTgWUkMsR7dZu0kNvqVTfA6YR5a5u7Luk_k_OovmxB)/dm/3/x7txn7q/s/live-2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ceara.gov.br/wp-content/uploads/2015/10/Logo_TVC.jpg" group-title="🌎Variedades", TV Ceara
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2020/11/bl.png" group-title="🌎Variedades", TV Cariri
@@ -79,6 +75,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="🌎Variedades", TV Camera
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1BDdHaHnhocilo3ffZD4sagRFym25CMDYgY9APGI59fLgktmMF7H3kSLUwetZX3w72D274QwE9PpOLGuMjTiJURSuC5bPNnW_wotW2WJBXIRU2J_Vl98u6gv-yb4Yyuju3YBR3QYR973vTnkbDb9z7-Cmy0Fozt7y8BJM0gPi10Pqqn1NInmXuAIK=w1200-h630-p-k-no-nu" group-title="🌎Variedades", TV educadora 
