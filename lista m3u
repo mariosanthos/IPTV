@@ -13,8 +13,8 @@ https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w151436
 https://video02.logicahost.com.br/a10mais/a10mais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="📺Canais locais", RedeTV! O Dia (PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
-#EXTINF:-1 tvg-logo="https://tvpiaui.com.br/assets/brands/logo-tvpiaui-main2-bf4542927b0c56ccfc8548729f2f8bb676b994b7f1baa6cca72b5a5438b927af.png" group-title="📺Canais locais", TV Piuai
-https://cdn-piaui-8128-1.ciclano.io:1443/piaui-8128-1/piaui-8128-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/TV%20SINTE%20PI.gif" group-title="📺Canais locais", TV SINTE PI 
+https://5c483b9d1019c.streamlock.net/8216/8216/chunklist_w1140044267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="📺Canais locais", TV Gallo Jaicos (PI)
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
@@ -77,6 +77,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gln%20tv.png" group-title="🌎Variedades", GLN TV
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1BDdHaHnhocilo3ffZD4sagRFym25CMDYgY9APGI59fLgktmMF7H3kSLUwetZX3w72D274QwE9PpOLGuMjTiJURSuC5bPNnW_wotW2WJBXIRU2J_Vl98u6gv-yb4Yyuju3YBR3QYR973vTnkbDb9z7-Cmy0Fozt7y8BJM0gPi10Pqqn1NInmXuAIK=w1200-h630-p-k-no-nu" group-title="🌎Variedades", TV educadora 
 https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="🌎Variedades", SescTV
