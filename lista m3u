@@ -180,7 +180,7 @@ https://stmv2.srvsh.com.br/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gospel%20cartoon.jpg" group-title="🎈Infantil", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🎈Infantil", Vintage TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="🎶Música", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="🎶Música", KroneHIT
