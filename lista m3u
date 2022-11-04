@@ -79,6 +79,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/max90.jpg" group-title="🌎Variedades", Max 90 TV 
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gln%20tv.png" group-title="🌎Variedades", GLN TV
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1BDdHaHnhocilo3ffZD4sagRFym25CMDYgY9APGI59fLgktmMF7H3kSLUwetZX3w72D274QwE9PpOLGuMjTiJURSuC5bPNnW_wotW2WJBXIRU2J_Vl98u6gv-yb4Yyuju3YBR3QYR973vTnkbDb9z7-Cmy0Fozt7y8BJM0gPi10Pqqn1NInmXuAIK=w1200-h630-p-k-no-nu" group-title="🌎Variedades", TV Educadora 
