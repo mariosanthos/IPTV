@@ -202,8 +202,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png" group-title="🎶Música", Portal News
 https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+https://live-ancdn-02.video.globo.com/nu/f(i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio",CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+https://live-ancdn-04.video.globo.com/nu/f(i=2)/cbnrj24ha/cbnrj24ha-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
