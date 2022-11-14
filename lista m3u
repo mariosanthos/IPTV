@@ -156,7 +156,7 @@ https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Chips.jpg" group-title="🎬Filmes e Series", Chips
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="🎎Animes", Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animestation.png" group-title="🎎Animes", Anime Station
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://anitv.live/promos/website.jpg" group-title="🎎Animes", AniTV
