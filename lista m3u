@@ -21,6 +21,8 @@ https://5c483b9d1019c.streamlock.net/8216/8216/chunklist_w1140044267.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670256990/ei/_sSNY-j7Fued4dUPotay0AQ/ip/45.164.58.15/id/ABVQXgr2LW4.5/source/yt_live_broadcast/requiressl/yes/tx/24412681/txs/24412676%2C24412677%2C24412678%2C24412679%2C24412680%2C24412681%2C24412682/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMKqg6FyCh9qVEOE5j3pkGCkVVpAE7afGEIct0kfNn66AiB6gFyeY_PRJtt3_DRy9SOaimo2WK1Am5rXnzdM-rTWmg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Rede Massa (PR)
