@@ -212,9 +212,10 @@ https://live-ancdn-04.video.globo.com/nu/f(i=2)/cbnrj24ha/cbnrj24ha-audio_1=9600
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Desenhos animados", Coiote E Papa Léguas
-
-
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", Coiote E Papa Léguas
+https://github.com/mariosanthos/arquivos/blob/main/001.Coiote%20E%20Papa%20L%C3%A9guas-Can%C3%A7ado%20De%20Apanhar-Hora%20Acme%20XviD%20Por%20Dimas%20Som.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/001.Coiote%20E%20Papa%20L%C3%A9guas-Can%C3%A7ado%20De%20Apanhar-Hora%20Acme%20XviD%20Por%20Dimas%20Som.mkv
 
 
 
