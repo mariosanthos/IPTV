@@ -212,15 +212,24 @@ https://live-ancdn-04.video.globo.com/nu/f(i=2)/cbnrj24ha/cbnrj24ha-audio_1=9600
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", Coiote E Papa Léguas
-https://github.com/mariosanthos/arquivos/blob/main/001.Coiote%20E%20Papa%20L%C3%A9guas-Can%C3%A7ado%20De%20Apanhar-Hora%20Acme%20XviD%20Por%20Dimas%20Som.mkv
-#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", Coiote E Papa Léguas
-https://raw.githubusercontent.com/mariosanthos/arquivos/main/001.Coiote%20E%20Papa%20L%C3%A9guas-Can%C3%A7ado%20De%20Apanhar-Hora%20Acme%20XviD%20Por%20Dimas%20Som.mkv
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 001 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/001.Coiote%20E%20Papa%20L%C3%A9guas-Can%C3%A7ado%20De%20Apanhar.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 002 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/002.Coiote%20E%20Papa%20L%C3%A9guas-Correndo%20A%20C%C3%A9u%20Aberto.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 003 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/003.Coiote%20E%20Papa%20L%C3%A9guas-Manda%20Bala.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 004 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/004.Coiote%20E%20Papa%20L%C3%A9guas-Rolo%20Compressor.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 005 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/005.Coiote%20E%20Papa%20L%C3%A9guas-Usando%20Novos%20Inventos.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 006 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/006.Coiote-Atr%C3%A1s%20Do%20Papa%20L%C3%A9guas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 007 Coiote E Papa Léguas
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/007.Coiote-Trabalhando%20Feito%20Louco.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 008 FRajola
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/008.Frajola-A%20Message%20To%20Gracias.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 009 Frajola
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/009.Frajola-Amigos%20Amigos%2C%20Ratos%20A%20Parte.mkv
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 010 Frajola
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/010.Frajola-Bancando%20A%20Isca.mkv
 
