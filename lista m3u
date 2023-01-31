@@ -205,9 +205,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kBfcF5T4qbc/X3d8epALoUI/AAAAAAAADY4/1V933YfzaZwCr51ypSOCVLjvmuutT2y8wCPcBGAYYCw/w1200-h630-p-k-no-nu/PORTAL%2BNEWS%2BWEB%2BTV.png" group-title="🎶Música", Portal News
 https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist_w1780281975.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio",CBN SP
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio", CBN SP
 https://live-ancdn-02.video.globo.com/nu/f(i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio",CBN RJ
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="📻Radio", CBN RJ
 https://live-ancdn-04.video.globo.com/nu/f(i=2)/cbnrj24ha/cbnrj24ha-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
@@ -226,7 +226,7 @@ https://raw.githubusercontent.com/mariosanthos/arquivos/main/005.Coiote%20E%20Pa
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/006.Coiote-Atr%C3%A1s%20Do%20Papa%20L%C3%A9guas.mkv
 #EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 007 Coiote E Papa Léguas
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/007.Coiote-Trabalhando%20Feito%20Louco.mkv
-#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 008 FRajola
+#EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 008 Frajola
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/008.Frajola-A%20Message%20To%20Gracias.mkv
 #EXTINF:-1 tvg-logo="" group-title="Desenhos Animados", 009 Frajola
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/009.Frajola-Amigos%20Amigos%2C%20Ratos%20A%20Parte.mkv
