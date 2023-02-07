@@ -212,6 +212,8 @@ https://live-ancdn-04.video.globo.com/nu/f(i=2)/cbnrj24ha/cbnrj24ha-audio_1=9600
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 000 Abertura
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/Abertura%20A%20Hora%20Warner.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 001 Coiote E Papa Léguas
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/001.Coiote%20E%20Papa%20L%C3%A9guas-Can%C3%A7ado%20De%20Apanhar.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 002 Coiote E Papa Léguas
@@ -252,9 +254,6 @@ https://raw.githubusercontent.com/mariosanthos/arquivos/main/018.Frangolino-Tudo
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/019.Frangolino-Frangolino%20Bom%20De%20Briga.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 020 Frangolino
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/020.Frangolino-Gavi%C3%A3o%20Ensinando%20A%20Pegar%20Galinhas.mkv
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 021 Grilo e Corvos
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/021.Grilo%20E%20Corvos-Ri%20Por%20%C3%9Altimo%20Quem%20Ri%20Melhor.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 022 Ligeirinho
@@ -275,14 +274,43 @@ https://raw.githubusercontent.com/mariosanthos/arquivos/main/028.Patolino-F%C3%A
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/029.Patolino-O%20Fim%20Secreto.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 030 Patolino
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/030.Patolino-Scarlet%20Pumpernickel.mkv
-
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 031 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/031.Pepe%20Le%20Piu-Amor%20Selvagem.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 032 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/032.Pepe%20Le%20Piu-As%20Apar%C3%AAncias%20Enganam.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 033 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/033.Pepe%20Le%20Piu-Louvre%20De%20Volta%20A%20Mim.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 034 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/034.Pepe%20Le%20Piu-Na%20Legi%C3%A3o%20Estrangeira.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 035 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/035.Pepe%20Le%20Piu-Perfume%20Dos%20C%C3%A9us.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 036 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/036.Pepe%20Le%20Piu-Raz%C3%B5es%20Sentimentais.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 037 Pepe Le Piu
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/037.Pepe%20Le%20Piu-Romance%20Nos%20Alpes.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 039 Pernalonga
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/039.Pernalonga-Ca%C3%A7a%20Ao%20Pato.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 040 Pernalonga
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/040.Pernalonga-Coelho%2018%20Kilats.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 041 Pernalonga
-https://raw.githubusercontent.com/mariosanthos/arquivos/main/041.Pernalonga-Coelho%20Acrobata.mkv
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/041.Pernalonga-Coelho%20Acrobata.mkv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 042 Pernalonga
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/042.Pernalonga-Coelho%20Sem%20Lar.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 043 Piu Piu e Frajola
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/043.Piu%20Piu%20E%20Frajola-Presos%20Na%20Nevasca.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 044 Piu Piu e Frajola
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/044.Piu%20Piu-A%20Ave%20E%20A%20Fera.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 045 Piu Piu e Frajola
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/045.Piu%20Piu-Frajola%20Na%20Gaiola.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 046 Varios
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/046.V%C3%A1rios-Garoto%20Pregui%C3%A7oso.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 047 Varios
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/047.V%C3%A1rios-Gato%20E%20Rato%20At%C3%A9%20A%20Morte.mkv
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 048 Varios
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/048.V%C3%A1rios-Marciano%20Invade%20A%20Terra.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 049 Varios
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/049.V%C3%A1rios-Mini%20Canto%20Musical.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 050 Varios
+https://raw.githubusercontent.com/mariosanthos/arquivos/main/050.V%C3%A1rios-Mundo%20Mais%20Do%20Que%20Selvagem.mkv
 
 
