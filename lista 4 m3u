@@ -111,6 +111,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2023/03/fora-do-tedio-ao-vivo.png" group-title="🌎Variedades", Fora Tedio
+https://video03.logicahost.com.br/foratedio/foratedio/chunklist_w860728528.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/max90.jpg" group-title="🌎Variedades", Max 90
