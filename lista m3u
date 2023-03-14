@@ -158,7 +158,7 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redeclone.jpg" group-title="🎎Animes", Rede Clone
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1227652013.m3u8
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="🎎Animes", Striker Verso
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🎎Animes", Yeeaah TV
