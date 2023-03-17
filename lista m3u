@@ -153,11 +153,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="🎬Filmes e Series", Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="🎬Filmes e Series",iCarly | Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV 2
@@ -174,7 +171,8 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="🎬Filmes e Series",iCarly | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="🎎Animes", Naruto | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
