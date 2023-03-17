@@ -185,7 +185,7 @@ https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="🎈Infantil", Kuriakos Kids
 https://alanza.iptv2022.com/KURIAKOS_KIDS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="🎈Infantil",Nick | Pluto TV
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="🎈Infantil",Nick Classico | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="🎈Infantil",Nick Jr. | Pluto TV 
