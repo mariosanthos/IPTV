@@ -266,3 +266,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Uj9X6rh8oFw/maxresdefault.jpg" group-title="Filme", Super Mario Bros o Filme 2023
+https://pub-a66aac9b0f6e428896c58f98eb0a2d8c.r2.dev/movies/tt6718170/dub_1xbet.mp4
