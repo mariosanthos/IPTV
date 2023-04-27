@@ -4,7 +4,7 @@
 ## 📧 Contato: mariosantosd@hotmai.com
 ## 🆕 28-04-2022 | 18-04-2023
 
-####################################################################################################################################################################
+############################################################### 📺Canais locais #####################################################################################################
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.logo.jpg" group-title="", iptv gratis e legal!
@@ -29,6 +29,10 @@ https://5c483b9d1019c.streamlock.net/8216/8216/chunklist_w1140044267.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+
+
+########################################################################## 🌎Variedades #####################################################################
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Rede Massa (PR)
@@ -89,6 +93,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="🌎Variedades", SescTV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+
+###################################################################### 📰Noticias #########################################################################################
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="📰Noticias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpn.jpg" group-title="📰Noticias", Jovem Pan News
@@ -99,6 +106,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="📰Noticias", Euronews (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+
+####################################################### 🙏Religioso ################################################################################################
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="🙏Religioso",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="🙏Religioso",Rede Vida
@@ -117,17 +127,22 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="🙏Religioso",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+######################################################################### ⚽️Esportes ################################################################################
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="⚽️Esportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="⚽️Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMQwdwEbc-Sqr83fPFBKnqUwsU6TqU96Xc4Sr_AjgVYRdzGBAj_Ruw2KqaUqTskSMOJq9yCvgeLnQVnVAGLWsAdESoG5jXUNxWFmOnltv6N0dnZGTB9AJI1CtOPJPTGl7w98HjP9qhRbXJ20GWyBsALg43lhV-5YIcgxLyKRbUf4JyNWffEoOBQnwE/w1200-h630-p-k-no-nu/RS%20NEWS%20SPORTS.webp" group-title="⚽️Esportes",RS NEWS SPORTS TV
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
+
+######################################################################### 🌎Variedades ################################################################################################ 
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/foratedio.logo.png" group-title="🌎Variedades", Fora Tedio
 https://video03.logicahost.com.br/foratedio/foratedio/chunklist_w860728528.m3u8
-
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="🌎Variedades", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
@@ -144,8 +159,15 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/KURIAKOS%20TV.png" group-title="🌎Variedades", KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+
+############################################################## 🎬Filmes e Series ######################################################################################################
+
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="🎬Filmes e Series", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB_LAkCvUJZFvEmRaIFQekfC_gz59IV-HxhqL6G61kp24E_W2OvahHpUU3tvNJ6AXnoBTJbmhzpRYqaBFaWSifeQwx6TFOx-OgWyj9ci70H-4m-FioS8rgxgJ5bD6mJijdyHekgWXDkU-aqWVYN58qBvkrZayiM9feLjJvCvpyx16nuOxDjAECXTly/w1200-h630-p-k-no-nu/CHRISTMAS%20TV.webp" group-title="🎬Filmes e Series", Filmes de Natal
 https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viva.web.tv.logo.jpg" group-title="🎬Filmes e Series", Viva Web TV
@@ -165,6 +187,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="🎬Filmes e Series", RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
+################################################################# PLUTO TV |🎬Filmes e Series #############################################################################################################
+ 
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="🎬Filmes e Series", Cine Sucessos | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="🎬Filmes e Series", Cine Família | Pluto TV
@@ -177,18 +201,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="🎬Filmes e Series", Cine Terror | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV 2
-https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV Western
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="🎬Filmes e Series",iCarly | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+###################################################################### PLUTO TV | 🎎Animes ##########################################################################################################
+
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="🎎Animes", Anime | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="🎎Animes",Anime Ação | Pluto TV 
@@ -214,6 +231,9 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🎎Animes", Yeeaah TV
 https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
+
+##################################################################### PLUTO TV | 🎈Infantil #################################################################################################
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="🎈Infantil", Kuriakos Kids
 https://alanza.iptv2022.com/KURIAKOS_KIDS/tracks-v1a1/mono.m3u8
 
@@ -225,6 +245,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b
 
 #EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="🎈Infantil", As Aventuras de Jackie Chan | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="🎈Infantil", Super Onze
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="🎈Infantil",Bob Esponja | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -246,6 +269,9 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🎈Infantil", Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+########################################################################## 🎶Música ################################################################################################
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="🎶Música", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="🎶Música", KroneHIT
@@ -268,9 +294,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
 
-########################################################################################################################################################
+######################################################################## 🎬 Filmes ################################################################################
 
-Filmes
+
 
 #EXTINF:-1 tvg-logo="https://img.game-news24.com/2023/04/Super-Mario-Bros-became-the-highest-grossing-video-game-maker-at-500-million-dollars.jpeg" group-title="🎬Filmes", Super Mario Bros O Filme 2023
 https://pub-a66aac9b0f6e428896c58f98eb0a2d8c.r2.dev/movies/tt6718170/dub_1xbet.mp4
@@ -284,7 +310,7 @@ https://pub-a66aac9b0f6e428896c58f98eb0a2d8c.r2.dev/movies/tt6718170/dub_1xbet.m
 ############################################################################################################################################################
 
 
-Looney Tunes
+############################################################### Looney Tunes  ####################################################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 000 Abertura
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/Abertura%20A%20Hora%20Warner.mkv
