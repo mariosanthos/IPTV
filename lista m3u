@@ -2,7 +2,7 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Santo Antonio de Lisboa - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmai.com
-## 🆕 07-05-2022 | 16-05-2023
+## 🆕 07-05-2022 | 01-06-2023
 
 ############################################################### 📺Canais locais #####################################################################################################
 
@@ -186,6 +186,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="🎬Filmes e Series", RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="🎬Filmes e Series", RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="🎬Filmes e Series", RunTime CinEspanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="🎬Filmes e Series", RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+
 
 ################################################################# PLUTO TV |🎬Filmes e Series #############################################################################################################
  
