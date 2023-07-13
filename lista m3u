@@ -300,7 +300,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animestation.png" group-title="🎎Animes", Anime Station
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/geekdot.logo.jpg" group-title="🎎Animes", Geekdot
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="🎎Animes", One Piece | Pluto TV
