@@ -44,9 +44,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", Record TV RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:-1 tvg-logo="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="🌎Variedades", Record TV | Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades", Band (PA)
 https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades", Band (PA) 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -307,8 +304,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a17
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redeclone.jpg" group-title="🎎Animes", Rede Clone
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="🎎Animes", Striker Verso
-https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🎎Animes", Yeeaah TV
-https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 
