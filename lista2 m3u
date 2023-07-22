@@ -125,20 +125,10 @@ https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/ch
 
 ######################################################################### 🌎Variedades ################################################################################################ 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
-https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/foratedio.logo.png" group-title="🌎Variedades", Fora Tedio
-https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w1856259013.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="🌎Variedades", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gln%20tv.png" group-title="🌎Variedades", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/109870_TV_Destak.png" group-title="🌎Variedades",TV Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-61ONLT4Bbl4/YTZkmOlD2XI/AAAAAAAAFbc/4xLocTkJjWcDyK3XkiGBZvJJybuFCKu7gCLcBGAsYHQ/w1200-h630-p-k-no-nu/TV%2BCHANNEL%2BNETWORK.webp" group-title="🌎Variedades",TV Channel Network
-https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="🌎Variedades", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="🌎Variedades",AWTV
@@ -150,12 +140,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="🎬Filmes e Series", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="🎬Filmes e Series", DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB_LAkCvUJZFvEmRaIFQekfC_gz59IV-HxhqL6G61kp24E_W2OvahHpUU3tvNJ6AXnoBTJbmhzpRYqaBFaWSifeQwx6TFOx-OgWyj9ci70H-4m-FioS8rgxgJ5bD6mJijdyHekgWXDkU-aqWVYN58qBvkrZayiM9feLjJvCvpyx16nuOxDjAECXTly/w1200-h630-p-k-no-nu/CHRISTMAS%20TV.webp" group-title="🎬Filmes e Series", Filmes de Natal
-https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viva.web.tv.logo.jpg" group-title="🎬Filmes e Series", Viva Web TV
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="🎬Filmes e Series",kuriakos Cine
