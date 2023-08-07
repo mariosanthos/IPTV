@@ -9,6 +9,8 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.logo.jpg" group-title="", iptv gratis e legal!
+https://github.com/mariosanthos/arquivos/raw/main/iptv.gratis.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais locais", SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais locais", SBT Cidade Verde Picos (PI)
@@ -235,8 +237,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904
 
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🎈Infantil", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/Caverna_do_Dragao_Logo.jpg" group-title="🎈Infantil", Caverna do Dragao
-https://ythlsgo.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🎈Infantil", Desenhos Antigos 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gospel%20cartoon.jpg" group-title="🎈Infantil", Desenhos Biblicos 
