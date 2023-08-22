@@ -4,7 +4,7 @@
 ## 📧 Contato: mariosantosd@hotmai.com
 ## 🆕 07-05-2022 | 22-08-2023
 
-############################################################### 📺Canais locais #####################################################################################################
+##📺Canais locais
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.logo.jpg" group-title="", iptv gratis e legal!
@@ -31,7 +31,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 
 
-########################################################################## 🌎Variedades #####################################################################
+##🌎Variedades
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Interior (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -101,7 +101,7 @@ https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="🌎Variedades", SescTV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 
-###################################################################### 📰Noticias #########################################################################################
+##📰Noticias
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="📰Noticias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
@@ -114,7 +114,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="📰Noticias", Euronews (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
-####################################################### 🙏Religioso ################################################################################################
+##🙏Religioso
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="🙏Religioso",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
@@ -135,7 +135,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="🙏Religioso",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
-######################################################################### ⚽️Esportes ################################################################################
+##⚽️Esportes
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="⚽️Esportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -144,7 +144,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMQwdwEbc-Sqr83fPFBKnqUwsU6TqU96Xc4Sr_AjgVYRdzGBAj_Ruw2KqaUqTskSMOJq9yCvgeLnQVnVAGLWsAdESoG5jXUNxWFmOnltv6N0dnZGTB9AJI1CtOPJPTGl7w98HjP9qhRbXJ20GWyBsALg43lhV-5YIcgxLyKRbUf4JyNWffEoOBQnwE/w1200-h630-p-k-no-nu/RS%20NEWS%20SPORTS.webp" group-title="⚽️Esportes",RS NEWS SPORTS TV
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
 
-######################################################################### 🌎Variedades ################################################################################################ 
+##🌎Variedades
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
@@ -164,11 +164,10 @@ https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="🌎Variedades",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-
 #EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="🌎Variedades",Geek e Tech | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-############################################################ PLUTO TV | 🎈Infantil #################################################################################################
+##PLUTO TV | 🎈Infantil
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="🎈Infantil", Kuriakos Kids
 https://alanza.iptv2022.com/KURIAKOS_KIDS/tracks-v1a1/mono.m3u8
@@ -228,7 +227,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🎈Infantil", Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
-############################################################## 🎬Filmes e Series ######################################################################################################
+## 🎬Filmes e Series
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="🎬Filmes e Series", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
@@ -261,7 +260,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="🎬Filmes e Series", RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-################################################################# PLUTO TV |🎬Filmes e Series #############################################################################################################
+## PLUTO TV |🎬Filmes e Series
  
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="🎬Filmes e Series", Cine Sucessos | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -292,7 +291,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
-###################################################################### PLUTO TV | 🎎Animes ##########################################################################################################
+## PLUTO TV | 🎎Animes
 
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="🎎Animes", Anime | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -323,7 +322,7 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 
 
-########################################################################## 🎶Música ################################################################################################
+## 🎶Música
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="🎶Música", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
@@ -347,15 +346,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
 
-######################################################################## 🎬 Filmes ################################################################################
 
 
-
-
-############################################################################################################################################################
-
-
-############################################################### Looney Tunes  ####################################################################################
+## Looney Tunes
 
 
 
