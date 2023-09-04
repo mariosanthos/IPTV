@@ -106,7 +106,7 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="📰Noticias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpn.jpg" group-title="📰Noticias", Jovem Pan News
-https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft_720p/chunklist.m3u8
+https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News | Pluto TV 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News (ES)
