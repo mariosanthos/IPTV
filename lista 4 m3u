@@ -692,7 +692,6 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP162-Pato_pasmo.mk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP200-Razoes_sentimentais
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP201-Rhapsody_in_rivets
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP202-Roedorzinho_vermelho
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP203-Romance_no_gelo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP204-Romeu_sentimental
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP205-Sniffles_bells_the_cat
@@ -734,34 +733,35 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20T
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2004%20HQ(360P).mp4
 #EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 05
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2005%20HD(480P).mp4
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 06
 
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 07
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 08
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 09
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 10
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 11
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 12
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 13
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 14
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 15
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 16
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 17
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 18
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 19
-
-#EXTINF:-1 tvg-logo="https://github.com/mariosanthos/arquivos/blob/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 20
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 06
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2006%20HD(480P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 07
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2007%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 08
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2008%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 09
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2009%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 10
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2010%20HD(480P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 11
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2011%20HD(480P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 12
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2012%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 13
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2013%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 14
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2014%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 15
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2015%20HD(480P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 16
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2016%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 17
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2017%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 18
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2018%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 19
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2019%20HD(360P).mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/espaconave-terra.png" group-title="Espaconave Terra",Semana 20
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2020%20HD(360P).mp4
 
