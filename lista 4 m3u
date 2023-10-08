@@ -214,6 +214,8 @@ https://live-ancdn-04.video.globo.com/nu/f(i=2)/cbnrj24ha/cbnrj24ha-audio_1=9600
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/video/thumbnails/widescreen/walk_to_remember_thumbnail_16x9_widescreen_bpor.jpg" group-title="Filme", um amor par recordar
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_rc78aatk/v/1/pv/1/ev/10/flavorId/1_s561evb9/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yYzc4YWF0ay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTY4NTQwNDJ9fX1dfQ__&Signature=Q19A60i93ED9DUaH0DumZEQQBb-5JTq8afkZ1gwUsgOfaPUhPEy6FhY3pr4wjgBaIq~20RmqsHAbPFXlINIwbLBLjDv~tItwVKukSdVpj6K4kU8qkmMuimMK2s7LRVmlwi0u3to5eL2FezKS7KX28wfeSIsHjwZgiM-1GXw0iDWBUXxgXLt6Y9HYfK78xQdJSp0Xl9eOk1l~LnzjTEM9HVcDnCf8dOl8H-3J4wh9dV213hgE9yNqvhgzXqHdycNvkwSevluCrRLKb2xWEQG3Wld-jI09XR1BLXmOVXmg7kCQxNXv2Tu2M4QrTQsK~wv1i6RbhpJmx33qjKDlqDAg4w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes", 000 Abertura
