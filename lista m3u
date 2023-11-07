@@ -91,7 +91,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="🌎Variedades", TV Camera
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gov.jpg" group-title="🌎Variedades", Canal gov
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gov.png" group-title="🌎Variedades", Canal gov
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="🌎Variedades",TV DO Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
