@@ -15,8 +15,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/meionorte.png" group-title="📺Canais locais", Meio Norte (PI)
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20assembleia%20.jpg" group-title="📺Canais locais", TV Assembleia (PI)
-https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w1514361945.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/a10.png" group-title="📺Canais locais",TV Antena 10 (PI)
 https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="📺Canais locais", RedeTV! O Dia (PI)
@@ -150,8 +148,6 @@ https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/ch
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/foratedio.logo.png" group-title="🌎Variedades", Fora Tedio
-https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w1856259013.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="🌎Variedades", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
