@@ -2,7 +2,7 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmai.com
-## 🆕 07-05-2022 | 07-11-2023
+## 🆕 07-05-2022 | 01-12-2023
 
 ##📺Canais locais
 
@@ -19,10 +19,6 @@ http://streaming.jornalmn.com.br/live/tvmn.m3u8
 https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="📺Canais locais", RedeTV! O Dia (PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvlnews.jpeg" group-title="📺Canais locais", TVL News (PI)
-https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CtoFCpPzhTU0ERDa3Wn9dxOywKtodPgckXlx--OZYfGQyIo9MNaK6p9OOu00GjcOMgDmb7_ew1xBHjOp96xBsJACCmJUsDHDzSfi49yjB5rYo3MOUzE6APjdD2YmLFNXUayCIhDPVvVv_vVeU3r8ssxLBmF3iQWKNeb3n0TEl6-9No41ncCTFQnKvbWDX3nifeFTNN2WedADty8Ft2-Ex-pB7MWxM25TelpfTyGZWWh2A7JjpGCxUxZYbSHSFBMarIZ98RC4dS8zrBzvy-iz3EobqNwsZLZh0bImb129xLVlL0kOnwqmrM3wnsNvgIQFkVJX5Xxjdiu8cNFPc9PibITGdWIfu4U6Ft0smJ91QX99Jj_-LZNun5inFK5mGVAcJJw0pLufOqsEJ6V12WkJldxQOVPxVXvcBqOSKCGJ1OSQIcz1gPvNFDYgDn4bcN6CfeFyARzg-FlJ1zEPewkIOab2RkEmfdI-C9i7UWS5uM3pbED8TL-3oYeYL3lIc61eQKChRxZsX_2vfYzd080Zb-VPICqaxeuMQ6eg7FpjbCmYIK1RnOhwQ7htgaG1Qmoes_dyybedTb_pYMBlti_BEw8cpo6cW1x8aS0BXGLvFpjYkAfpzVYikktFgxZohZonj0neifmkF3ix2mQwgXyCa9PQgoBPk81a2Oe_a8EA2vw9LiyHSaOmKOtXeMIC8tA71pto5_FrD_DMVDNG7WnKRcZ0felYWXsGPYJ5A_ddt1th9hwoL0QAgikPnAXvUVdDU4YCUu3iGXlsOvG6BtWftBHMQQZx18BKIICmqKeyjPqWJDzoKEKpTNsC8AbfJL0dahKiacypxJiTUizys7Ga5Y6k78gR0aSjtocykeH6BoBmpx2H7MJE2F4o3D_QHQG5vyh6Sjmy7hZT0n--X4C2yxUo8NqB_mq5oHMSuXa1S2Nz4v9JPpN8EG5tdAnpuuNwNlymBa6kwBx69uvVtxoMGx-ZHuF514gpWlT_IAEqCWV1LXdlc3QtMTDwAw.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/TVSINTE.jpeg" group-title="📺Canais locais", TV SINTE PI 
-https://5c483b9d1019c.streamlock.net/8216/8216/chunklist_w1140044267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="📺Canais locais", TV Gallo Jaicos (PI)
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
@@ -41,6 +37,8 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", Record TV MT 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", Record TV RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 #EXTINF:-1 tvg-logo="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="🌎Variedades", Record TV | Pluto TV
