@@ -21,6 +21,10 @@ https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="📺Canais locais", RedeTV! O Dia (PI) 2
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1400424716.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="📺Canais locais", Band (PI) 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707254562/ei/wk7CZca3B-uh4dUPzb-5iA8/ip/45.164.58.11/id/vtdU7f-__5c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJrLet-JkZmAjXJeQdt-JYaibY5ANjQ0u0wB6Eji7cYeAiBY2imgF7mLCGOVAELJQ1YdxaCJRNu8IaNDPhMu0j-jRg%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="📺Canais locais", TV Gallo Jaicos (PI)
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="📺Canais locais",TV Capital Teresina
