@@ -127,7 +127,7 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="Filmes e Series",kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.jpg" group-title="Filmes e Series", TV Nova Play
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.png" group-title="Filmes e Series", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1216624718.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes e Series", Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
