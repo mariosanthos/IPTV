@@ -83,8 +83,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Noticias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpn.jpg" group-title="Noticias", Jovem Pan News
-http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Noticias", Record News (ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Noticias", Euronews (PT)
