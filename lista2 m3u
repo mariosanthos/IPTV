@@ -114,7 +114,7 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png" group-title="Infantil", Desenhos Antigos 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gospel%20cartoon.jpg" group-title="Infantil", Desenhos Biblicos 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gospelcartoon.png" group-title="Infantil", Desenhos Biblicos 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 ##Filmes e Series
