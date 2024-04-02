@@ -105,7 +105,7 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 
 ##📰Noticias
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="📰Noticias", CNN Brasil
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnnbrasil.png" group-title="📰Noticias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpn.jpg" group-title="📰Noticias", Jovem Pan News
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
