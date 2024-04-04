@@ -2,12 +2,12 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmai.com
-## 🆕 07-05-2022 | 23-03-2024
+## 🆕 07-05-2022 | 04-04-2024
 
 ##📺Canais locais
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.logo.jpg" group-title="", iptv gratis e legal!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png" group-title="", iptv gratis e legal!
 https://github.com/mariosanthos/arquivos/raw/main/iptv.gratis.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais locais", SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
