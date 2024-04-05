@@ -160,7 +160,7 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/channelnetwork.png" group-title="🌎Variedades",TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="🌎Variedades", Bons Tempos TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/bonstempos.png" group-title="🌎Variedades", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="🌎Variedades",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
