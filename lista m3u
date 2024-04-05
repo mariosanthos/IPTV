@@ -148,7 +148,7 @@ https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/ch
 
 ##🌎Variedades
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sK8Zi9PLVLo/YTD-6NY0kqI/AAAAAAAAFTI/ak6zZbmQo7MMKg4GzxCmPlGbeO39oFfowCLcBGAsYHQ/w1200-h630-p-k-no-nu/VILA%2BTV.webp" group-title="🌎Variedades", Vila TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/vilatv.png" group-title="🌎Variedades", Vila TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="🌎Variedades", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
