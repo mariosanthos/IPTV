@@ -143,7 +143,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="⚽️Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMQwdwEbc-Sqr83fPFBKnqUwsU6TqU96Xc4Sr_AjgVYRdzGBAj_Ruw2KqaUqTskSMOJq9yCvgeLnQVnVAGLWsAdESoG5jXUNxWFmOnltv6N0dnZGTB9AJI1CtOPJPTGl7w98HjP9qhRbXJ20GWyBsALg43lhV-5YIcgxLyKRbUf4JyNWffEoOBQnwE/w1200-h630-p-k-no-nu/RS%20NEWS%20SPORTS.webp" group-title="⚽️Esportes",RS NEWS SPORTS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/paieterno.png" group-title="⚽️Esportes", RS NEWS SPORTS TV
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
 
 ##🌎Variedades
