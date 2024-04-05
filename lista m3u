@@ -158,7 +158,7 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/109870_TV_Destak.png" group-title="🌎Variedades",TV Destak
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-61ONLT4Bbl4/YTZkmOlD2XI/AAAAAAAAFbc/4xLocTkJjWcDyK3XkiGBZvJJybuFCKu7gCLcBGAsYHQ/w1200-h630-p-k-no-nu/TV%2BCHANNEL%2BNETWORK.webp" group-title="🌎Variedades",TV Channel Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/channelnetwork.png" group-title="🌎Variedades",TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="🌎Variedades", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
