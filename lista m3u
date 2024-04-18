@@ -341,6 +341,20 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="🎶Música", KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+##📻Radio
+
+#EXTINF:-1 tvg-logo="" group-title="📻Radio",Radio Grande 94.5 FM
+https://player.srvaudio.com.br/player-ssl/9634
+#EXTINF:-1 tvg-logo="" group-title="📻Radio", Radio Cidade Modelo 95.3 FM
+https://ssl1.transmissaodigital.com:20114/stream
+#EXTINF:-1 tvg-logo="" group-title="📻Radio", Radio Guaribas 98.3 FM
+https://player.srvaudio.com.br/player-ssl/11882
+#EXTINF:-1 tvg-logo="" group-title="📻Radio", Radio Cultura 104.3 FM
+https://str02.kfmidia.com.br:6672/stream
+#EXTINF:-1 tvg-logo="" group-title="📻Radio", Radio Difusora 920 AM
+http://stm20.srvaudio.com.br:11190/stream
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
