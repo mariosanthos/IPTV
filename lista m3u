@@ -346,7 +346,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/grandefm.png" group-title="📻Radio",Radio Grande 94.5 FM
 https://player.srvaudio.com.br/player-ssl/9634
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/.png" group-title="📻Radio", Radio Cidade Modelo 95.3 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidademodelofm.png" group-title="📻Radio", Radio Cidade Modelo 95.3 FM
 https://ssl1.transmissaodigital.com:20114/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/.png" group-title="📻Radio", Radio Guaribas 98.3 FM
 https://player.srvaudio.com.br/player-ssl/11882
