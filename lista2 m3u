@@ -160,18 +160,18 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
 
 ## Radio 
 
-#EXTINF:-1 tvg-logo="" group-title="radio",Radio Grande 94.5 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/grandefm.png" group-title="Radio",Radio Grande 94.5 FM
 https://player.srvaudio.com.br/player-ssl/9634
-#EXTINF:-1 tvg-logo="" group-title="radio", Radio Cidade Modelo 95.3 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidademodelofm.png" group-title="Radio", Radio Cidade Modelo 95.3 FM
 https://ssl1.transmissaodigital.com:20114/stream
-#EXTINF:-1 tvg-logo="" group-title="radio", Radio Guaribas 98.3 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/guaribasfm.png" group-title="Radio", Radio Guaribas 98.3 FM
 https://player.srvaudio.com.br/player-ssl/11882
-#EXTINF:-1 tvg-logo="" group-title="radio", Radio Cultura 104.3 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/culturafm.png" group-title="Radio", Radio Cultura 104.3 FM
 https://str02.kfmidia.com.br:6672/stream
-#EXTINF:-1 tvg-logo="" group-title="radio", Radio Difusora 920 AM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/difusoraam.png" group-title="Radio", Radio Difusora 920 AM
 http://stm20.srvaudio.com.br:11190/stream
 
 
 #EXTINF:-1 tvg-logo="" group-title="radio",
-#EXTINF:-1 tvg-logo="" group-title="radio",
+
 
