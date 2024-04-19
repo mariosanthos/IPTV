@@ -352,6 +352,10 @@ https://ssl1.transmissaodigital.com:20114/stream
 https://player.srvaudio.com.br/player-ssl/11882
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/culturafm.png" group-title="📻Radio", Radio Cultura 104.3 FM
 https://str02.kfmidia.com.br:6672/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/esperancaam.png" group-title="📻Radio",Radio Esperança 850 AM
+https://stm3.srvif.com:7360/stream
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/difusoraam.png" group-title="📻Radio", Radio Difusora 920 AM
 http://stm20.srvaudio.com.br:11190/stream
 
