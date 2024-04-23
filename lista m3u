@@ -348,7 +348,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 ##📻Radio
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidadeverte" group-title="📻Radio", Rádio Cidade Verde 93.5 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidadeverte.png" group-title="📻Radio", Rádio Cidade Verde 93.5 FM
 https://ssl1.transmissaodigital.com:20010/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/grandefm.png" group-title="📻Radio",Radio Grande 94.5 FM
 https://player.srvaudio.com.br/player-ssl/9634
