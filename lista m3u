@@ -348,7 +348,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 ##📻Radio
 
-#EXTINF:-1 tvg-logo="" group-title="📻Radio", Rádio Cidade Verde 93.5 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidadeverte" group-title="📻Radio", Rádio Cidade Verde 93.5 FM
 https://ssl1.transmissaodigital.com:20010/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/grandefm.png" group-title="📻Radio",Radio Grande 94.5 FM
 https://player.srvaudio.com.br/player-ssl/9634
@@ -356,11 +356,11 @@ https://player.srvaudio.com.br/player-ssl/9634
 https://ssl1.transmissaodigital.com:20114/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/guaribasfm.png" group-title="📻Radio", Radio Guaribas 98.3 FM
 https://player.srvaudio.com.br/player-ssl/11882
-#EXTINF:-1 tvg-logo="" group-title="📻Radio", Rádio Meio Norte 99.9 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/meionorte.png" group-title="📻Radio", Rádio Meio Norte 99.9 FM
 https://webradio.amsolution.com.br/radio/8280/meionorte
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/culturafm.png" group-title="📻Radio", Radio Cultura 104.3 FM
 https://str02.kfmidia.com.br:6672/stream
-#EXTINF:-1 tvg-logo="" group-title="📻Radio",Rádio Tropical 105.9 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tropical.png" group-title="📻Radio",Rádio Tropical 105.9 FM
 http://stm2.matutos.com.br:10136/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/esperancaam.png" group-title="📻Radio",Radio Esperança 850 AM
 https://stm3.srvif.com:7360/stream
