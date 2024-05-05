@@ -13,7 +13,7 @@ https://github.com/mariosanthos/arquivos/raw/main/iptv.gratis.mp4
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXxdl3c.png" group-title="📺Canais locais", SBT Cidade Verde Picos (PI)
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w841480968.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvmeio.png" group-title="📺Canais locais", TV Meio (Meio Norte-PI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvmeio.png" group-title="📺Canais locais", TV Meio (PI)
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvassembleia.png" group-title="📺Canais locais", TV Assembleia (PI)
 https://stmv1.srvstm.com/piaui7026/piaui7026/playlist.m3u8
