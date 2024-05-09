@@ -141,6 +141,15 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/paieterno.png" group-title="🙏Religioso",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
+ ##Soul TV Educativos e documentários
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="👨🏻‍🎓Educativos e documentários",Universidade da Pessoa 
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="👨🏻‍🎓Educativos e documentários",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="👨🏻‍🎓Educativos e documentários",XR Health Brasil
+http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
 ##⚽️Esportes
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="⚽️Esportes", Red Bull TV
