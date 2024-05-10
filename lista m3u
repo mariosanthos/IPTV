@@ -377,9 +377,9 @@ http://stm2.matutos.com.br:10136/stream
 https://stm3.srvif.com:7360/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/difusoraam.png" group-title="📻Radio", Radio Difusora 920 AM
 http://stm20.srvaudio.com.br:11190/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/picosgospel" group-title="📻Radio",Radio Picos Gospel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/picosgospel.png" group-title="📻Radio",Radio Picos Gospel
 http://stream.zeno.fm/80ng4xm1r5quv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/capitaldomel" group-title="📻Radio",Radio Capital do Mel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/capitaldomel.png" group-title="📻Radio",Radio Capital do Mel
 https://stream.zeno.fm/m5b9rewcomkuv
 #EXTINF:-1 tvg-logo="" group-title="📻Radio",
 
