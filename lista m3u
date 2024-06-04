@@ -360,8 +360,7 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/musictop2.png" group-title="🎶Música", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="🎶Música", KpopTV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 ##📻Radio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidadeverde.png" group-title="📻Radio", Radio Cidade Verde 93.5 FM
