@@ -17,9 +17,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1215179
 #EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="🎈Infantil",Nick Jr. | Pluto TV 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="🎈Infantil", As Aventuras de Jackie Chan | Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="🎈Infantil",Bob Esponja | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -41,15 +38,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969
 #EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="🎈Infantil",A vida moderna de Rocko | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-
 #EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="🎈Infantil", Cocoricó | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="656e28dd57fe4a0008819c3d" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="🎈Infantil",Dora Aventureira | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="🎈Infantil",Moranguinho | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="🎈Infantil", Super Onze | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="🎈Infantil",Naruto | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="🎈Infantil",Tartarugas Ninja | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -63,5 +65,3 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvkidmais.png" group-title="🎈Infantil", TV KIDMAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1857365534.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gloobinho.png" group-title="🎈Infantil", Gloobinho
-https://abc.embedmax.site/gloobinho/tracks-v1/index.fmp4.m3u8
