@@ -2,7 +2,7 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmail.com
-## 🆕 07-05-2022 | 02-06-2024
+## 🆕 07-05-2022 | 25-07-2024
 
 ##📺Canais locais
 
@@ -258,8 +258,6 @@ https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w262218889.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="🎬Filmes e Series",kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tvnovaplay.png" group-title="🎬Filmes e Series", TV Nova Play
-https://srv2.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="🎬Filmes e Series", Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="🎬Filmes e Series", Cine Monde
