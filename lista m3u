@@ -248,6 +248,9 @@ https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/darkflix.png" group-title="🎬Filmes e Series", DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cinebrasil.png" group-title="🎬Filmes e Series", Cine Brasil
+https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist_w670523199.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/classiquetv.png" group-title="🎬Filmes e Series",Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/vivawebtv.png" group-title="🎬Filmes e Series", Viva Web TV
