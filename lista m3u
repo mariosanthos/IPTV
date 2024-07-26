@@ -182,12 +182,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="🎈Infantil", Kuriakos Kids
 https://alanza.iptv2022.com/KURIAKOS_KIDS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="🎈Infantil", Kids | Pluto TV
+#EXTINF:-1 tvg-id="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="🎈Infantil", Kids | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="🎈Infantil",Nick Classico | Pluto TV
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="http://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="🎈Infantil",Nick Classico | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="🎈Infantil",Nick Jr. | Pluto TV 
+#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="🎈Infantil",Nick Jr. | Pluto TV 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="🎈Infantil", As Aventuras de Jackie Chan | Pluto TV
