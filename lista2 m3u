@@ -14,7 +14,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcidadeverde.png" group-title="Canais locais", SBT Cidade Verde Picos (PI)
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvmeio.png" group-title="Canais locais", TV Meio (PI)
-https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvassembleia.png" group-title="Canais locais", TV Assembleia (PI)
 https://stmv1.srvstm.com/piaui7026/piaui7026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/a10.png" group-title="Canais locais",TV Antena 10 (PI)
