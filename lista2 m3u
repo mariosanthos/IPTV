@@ -18,7 +18,7 @@ http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvassembleia.png" group-title="Canais locais", TV Assembleia (PI)
 https://stmv1.srvstm.com/piaui7026/piaui7026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/a10.png" group-title="Canais locais",TV Antena 10 (PI)
-https://dvr0162dntu8s.cloudfront.net/out/v1/fdb99cebfe944a16ad24d44f91954317/index.mpd
+	https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="Canais locais", RedeTV! O Dia (PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvgallo.png" group-title="Canais locais", TV Gallo Jaicos (PI)
