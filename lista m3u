@@ -236,9 +236,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvkidmais.png" group-title="🎈Infantil", TV KIDMAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1857365534.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/toongoggles.png" group-title="🎈Infantil", Toon Goggles Brasil
-https://stream.ads.ottera.tv/cl/240726cqhqlirl0j5q484njo30/1280x720_3071200_0_f.m3u8?i=475_274
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="🎈Infantil", Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
