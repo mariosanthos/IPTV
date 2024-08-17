@@ -8,7 +8,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.logo.jpg" group-title="", tv.gratis!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png" group-title="", tv.gratis!
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/iptv.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcidadeverde.png" group-title="📺Canais locais", SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
