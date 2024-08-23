@@ -325,8 +325,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a94
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="🎎Animes", clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="🎎Animes", Striker Verso
-https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="🎎Animes", Yeeaah TV
 https://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
 
