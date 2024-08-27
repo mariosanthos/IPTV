@@ -39,9 +39,7 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", Record TV MT
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", Record TV (PB)
-	https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", RecordTV NDTV (SC)
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="🌎Variedades", Record TV (RN)
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades", Band (RBA TV)
