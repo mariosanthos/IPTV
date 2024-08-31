@@ -375,5 +375,9 @@ https://stream.zeno.fm/m5b9rewcomkuv
 #EXTINF:-1 tvg-logo="" group-title="📻Radio",
 
 ##Top Filmes
-#EXTINF:-1 tvg-logo="" group-title="Top Filmes Mercadoplay", Passageioro
+#EXTINF:-1 tvg-logo="" group-title="Top 3 Mercadoplay", Passageioro
 https://mdstrm.com/video/660c38dfad237b53d9a64f06.mpd
+#EXTINF:-1 tvg-logo="" group-title="Top 3 Mercadoplay", Todo mundo em panico
+https://mdstrm.com/video/65b909ee3549bb08acc382b2.mpd
+#EXTINF:-1 tvg-logo="" group-title="Top 3 Mercadoplay", Obsessão
+https://mdstrm.com/video/656fc589ce727b086dd6f6b9.mpd
