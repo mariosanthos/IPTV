@@ -375,6 +375,7 @@ http://stm20.srvaudio.com.br:11190/stream
 http://stream.zeno.fm/80ng4xm1r5quv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/capitaldomel.png" group-title="📻Radio",Radio Capital do Mel
 https://stream.zeno.fm/m5b9rewcomkuv
+#EXTINF:-1 tvg-logo="radiobandniws.png" group-title="📻Radio",Radio BandNews SP 96.9 FM
+https://24273.live.streamtheworld.com/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1727796028203
 #EXTINF:-1 tvg-logo="" group-title="📻Radio",
-
 ##Top Filmes
