@@ -359,6 +359,8 @@ https://ssl1.transmissaodigital.com:20010/;
 https://player.srvaudio.com.br/player-ssl/9634
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidademodelofm.png" group-title="📻Radio", Radio Cidade Modelo 95.3 FM
 https://ssl1.transmissaodigital.com:20114/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/radiobandniws.png" group-title="📻Radio",Radio BandNews SP 96.9 FM
+https://24273.live.streamtheworld.com/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1727796028203
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/guaribasfm.png" group-title="📻Radio", Radio Guaribas 98.3 FM
 https://player.srvaudio.com.br/player-ssl/11882
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/meionorte.png" group-title="📻Radio", Radio Meio Norte 99.9 FM
@@ -375,9 +377,5 @@ http://stm20.srvaudio.com.br:11190/stream
 http://stream.zeno.fm/80ng4xm1r5quv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/capitaldomel.png" group-title="📻Radio",Radio Capital do Mel
 https://stream.zeno.fm/m5b9rewcomkuv
-#EXTINF:-1 tvg-logo="radiobandniws.png" group-title="📻Radio",Radio BandNews SP 96.9 FM
-https://24273.live.streamtheworld.com/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1727796028203
-#EXTINF:-1 tvg-logo="radiobandniws.png" group-title="📻Radio",Radio BandNews SP 96.9 FM
-https://18823.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/86d0539c-6e17-47bf-9372-f5a296bf6c07/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📻Radio",
 ##Top Filmes
