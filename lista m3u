@@ -377,5 +377,7 @@ http://stream.zeno.fm/80ng4xm1r5quv
 https://stream.zeno.fm/m5b9rewcomkuv
 #EXTINF:-1 tvg-logo="radiobandniws.png" group-title="📻Radio",Radio BandNews SP 96.9 FM
 https://24273.live.streamtheworld.com/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1727796028203
+#EXTINF:-1 tvg-logo="radiobandniws.png" group-title="📻Radio",Radio BandNews SP 96.9 FM
+https://18823.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/86d0539c-6e17-47bf-9372-f5a296bf6c07/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📻Radio",
 ##Top Filmes
