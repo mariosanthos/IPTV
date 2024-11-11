@@ -29,7 +29,6 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcapital.png" group-title="📺Canais locais",TV Capital (PI)
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 
-
 ##🌎Variedades
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="🌎Variedades", SBT Interior (SP)
@@ -100,6 +99,9 @@ https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvsoneta.png" group-title="🌎Variedades", TV Sonata
 https://video01.kshost.com.br/tiago2001/tiago2001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/astraltv.png" group-title="🌎Variedades", Astraltv
+https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 
 
 ##📰Noticias
