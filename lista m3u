@@ -2,7 +2,7 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmail.com
-## 🆕 07-05-2022 | 01-10-2024
+## 🆕 07-05-2022 | 17-11-2024
 
 ##📺Canais locais
 
@@ -39,17 +39,17 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png" group-title="🌎Variedades", Record TV (RN)
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades", Band (RBA TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades", Band (RBA TV)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades", Band (PA) 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades", Band (PA) 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="🌎Variedades",Band (PE) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades",Band (PE) 
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="🌎Variedades",Band - TV Arapuan (PB)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades",Band - TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="🌎Variedades",RedeTV! (PR)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="🌎Variedades", RedeTV! Tocantins
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="🌎Variedades", RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv-cultura-logo.png" group-title="🌎Variedades", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lhd.m3u8?vhost=player-tvcultura.stream.uol.com.br
