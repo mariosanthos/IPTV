@@ -65,9 +65,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canalrural.png" group-title="🌎Variedades", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="🌎Variedades", TV Verdes Campos SAT
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/agrocanal.png" group-title="🌎Variedades", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/brsupertv.png" group-title="🌎Variedades", BRSUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
