@@ -107,8 +107,8 @@ https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1638099052.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpnews.png" group-title="📰Noticias", Jovem Pan News
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="📰Noticias", Band News
-https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News | Pluto TV 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News (ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="📰Noticias", Euronews (PT)
