@@ -85,7 +85,7 @@ https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redebrasil.png" group-title="🌎Variedades", Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1476653929.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="🌎Variedades", TV Camera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcamara.png" group-title="🌎Variedades", TV Camera
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gov.png" group-title="🌎Variedades", Canal gov
 https://canalgov-stream.ebc.com.br/index.m3u8
