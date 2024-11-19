@@ -104,7 +104,7 @@ https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 ##📰Noticias
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnnbrasil.png" group-title="📰Noticias", CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1695617312.m3u8
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpnews.png" group-title="📰Noticias", Jovem Pan News
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News | Pluto TV 
