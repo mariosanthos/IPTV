@@ -324,7 +324,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/1mus.png" group-title="🎶Música", 1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/kpoptv.png" group-title="🎶Música", KpopTV Play
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+https://alanza.iptv2022.com/Kpo_TV_Play/index.m3u8
 ##📻Radio
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
