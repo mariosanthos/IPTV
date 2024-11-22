@@ -239,9 +239,9 @@ https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist_w670523199.m3u8
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/vivawebtv.png" group-title="🎬Filmes e Series", Viva Web TV
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🎬Filmes e Series", XTreme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/xtreme.png" group-title="🎬Filmes e Series", XTreme
 https://alanza.iptv2022.com/Xtreme_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="🎬Filmes e Series",kuriakos Cine
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/kuriakoscine.png" group-title="🎬Filmes e Series",kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="🎬Filmes e Series", Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
