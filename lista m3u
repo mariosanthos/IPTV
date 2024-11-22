@@ -2,13 +2,13 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmail.com
-## 🆕 07-05-2022 | 18-11-2024
+## 🆕 07-05-2022 | 22-11-2024
 
 ##📺Canais locais
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png" group-title="", tv.gratis! 🔄 18.11.24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png" group-title="", tv.gratis! 🔄 22.11.24
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/iptv.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcidadeverde.png" group-title="📺Canais locais", SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1366217477.m3u8
@@ -327,8 +327,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://alanza.iptv2022.com/Kpo_TV_Play/index.m3u8
 ##📻Radio
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="📻Radio", Cultura PR
-https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidadeverde.png" group-title="📻Radio", Radio Cidade Verde 93.5 FM
 https://ssl1.transmissaodigital.com:20010/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/grandefm.png" group-title="📻Radio",Radio Grande 94.5 FM
