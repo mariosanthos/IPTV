@@ -247,6 +247,8 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="🎬Filmes e Series", Cine Monde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/seriesclassic.png" group-title="🎬Filmes e Series" Series Classic
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w384479859.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/runtime.png" group-title="🎬Filmes e Series", RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/runtime.png" group-title="🎬Filmes e Series", RunTime Ação
