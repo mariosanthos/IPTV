@@ -2,13 +2,13 @@
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmail.com
-## 🆕 07-05-2022 | 10-02-2025
+## 🆕 07-05-2022 | 20-02-2025
 
 ##📺Canais locais
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png" group-title="", tv.gratis! 🔄 10.02.25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png" group-title="", tv.gratis! 🔄 20.02.25
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/iptv.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcidadeverde.png" group-title="📺Canais locais", SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1366217477.m3u8
@@ -103,6 +103,8 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnbc.png" group-title="📰Noticias",CNBC
 https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/bandnews.png" group-title="📰Noticias", Band News
+https://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordnews.png" group-title="📰Noticias", Record News | Pluto TV 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordnews.png" group-title="📰Noticias", Record News (ES)
