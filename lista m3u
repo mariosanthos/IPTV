@@ -932,7 +932,7 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20T
 
 ##Tuttle Twins
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tuttletwins.png" group-title="Tuttle Twins",Tuttle Twins ep.01
-https://media.angelstudios.com/copied-content/80f2629d-88d1-4a14-bd36-c4e13bb92093/playlists/2b996f0c-edb1-4551-bd17-5ee326aadee7.m3u8
+https://api.stg.angelstudios.com/streaming/2f3d0382-ea82-4cdc-958e-84fbadadc710/master.m3u8?max_h264_level=3.2&ts=1741365670&v=4&s=0UWFJmBJgas4Qw2y%2Fj4sQGdB6gmHOYSEYXAYUwCcli20%2FUkBsXV8tD4iCWLlTVIoHds%2FtYH0jtSJ8uY9Ph4ygw%3D%3D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tuttletwins.png" group-title="Tuttle Twins",Tuttle Twins ep.02
 https://media.angelstudios.com/copied-content/03578bb7-4b65-45c9-a2bf-e249d02bbbec/playlists/ba1063de-fd8d-4309-b626-ac1a70b1c219.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tuttletwins.png" group-title="Tuttle Twins",Tuttle Twins ep.03
