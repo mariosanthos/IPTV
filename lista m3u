@@ -129,7 +129,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redegospel.png" group-title="🙏Religioso",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/paieterno.png" group-title="🙏Religioso",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rittv.png" group-title="🙏Religioso", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
  ##Soul TV Educativos e documentários
