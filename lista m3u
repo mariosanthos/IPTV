@@ -940,16 +940,26 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade
 
 ##Assim que funciona 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep01
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona01.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona 02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep02
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona02.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona 03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep03
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona03.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona 04
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep04
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona04.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona 05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep05
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona05.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep06
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona06.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep08
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona08.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep09
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona09.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep10
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona10.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep10
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/assimquefunciona11.mp4
 
 ##Tuttle Twins
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tuttletwins.png" group-title="Tuttle Twins",Tuttle Twins ep.01
