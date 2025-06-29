@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mariosanthos/IPTV/main/lista%20m3u"
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
-## 🆕 07-05-2022 | 07-03-2025
+## 🆕 07-05-2022 | 28-06-2025
 
 ##📺Canais locais
 
@@ -58,9 +58,9 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gazeta.png" group-title="🌎Variedades", TV Gazeta (MA)
 https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/terraviva.png" group-title="🌎Variedades",Terra Viva
-https://live-b.cf.dmcdn.net/sec2(MPPKDFPVfkMJCYmPwY-tXqRrGBrQ1k6KZ1gELLndtWsiHGdSer3KYF3BmN2gbjbv2xdFAXFzDQJAoF7Ox6Icju_R9z5svcbqPRrAcxeTf2Up9NvEjIA7GK_dtm-SFKTb)/dm/3/x8qceqq/s/live-720.m3u8#cell=lcfb
+https://www.dailymotion.com/cdn/live/video/x8qceqq.m3u8?sec=9_AIIjp5UcOkDd9eMF0Og3nl9C2KTQBvJcZz3HcTlSQoTZ076xYC30larI-iIUplO3_qbrpcDl7mcB-ibxjOow&dmTs=11772&dmV1st=0B615F9E6BD4BC9A1216239E228F86C7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/futura.png" group-title="🌎Variedades",FDR - Futura
-https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/playlist.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canalrural.png" group-title="🌎Variedades", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/brsupertv.png" group-title="🌎Variedades", BRSUPER TV
