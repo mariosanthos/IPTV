@@ -102,7 +102,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnnpt.png" group-title="📰Noticias", CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/jpnews.png" group-title="📰Noticias", Jovem Pan News
-http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnbc.png" group-title="📰Noticias",CNBC
 https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/bandnews.png" group-title="📰Noticias", Band News
