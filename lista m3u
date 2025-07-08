@@ -161,7 +161,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/telavivatv.png" group-title="🌎Variedades", Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gln%20tv.png" group-title="🌎Variedades", GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvdestak.png" group-title="🌎Variedades",TV Destak
 https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/channelnetwork.png" group-title="🌎Variedades",TV Channel Network
