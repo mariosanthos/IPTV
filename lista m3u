@@ -146,7 +146,7 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 ##⚽️Esportes
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cazetv.png" group-title="⚽️Esportes", Caze TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+curl -L https://www.youtube.com/@CazeTV | link
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rbtv.png" group-title="⚽️Esportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rsnewssports.png" group-title="⚽️Esportes", RS NEWS SPORTS TV
