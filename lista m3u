@@ -249,6 +249,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/kpoptv.png" group-title="🎶Música", KpopTV Play
 https://alanza.iptv2022.com/Kpo_TV_Play/index.m3u8
+
 ##📻Radio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidadeverde.png" group-title="📻Radio", Radio Cidade Verde 93.5 FM
