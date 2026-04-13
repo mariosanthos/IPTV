@@ -138,7 +138,8 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rittv.png" group-title="🙏Religioso", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
- ##Soul TV Educativos e documentários
+
+##Soul TV Educativos e documentários
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="👨🏻‍🎓Educativos e documentários",Universidade da Pessoa 
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
@@ -226,8 +227,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/runtime.png" group-title="🎬Filmes e Series", RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="🎬Filmes e Series", Tratamento de Choque
-https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
 
 ## Animes
 
