@@ -857,15 +857,6 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20T
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viagemnaeletricidade.png" group-title="Viagem na Eletricidade", Viagem na Eletricidade
 https://t0-videos.cinefy.gg/bcdn_token=PGbOoAuKpICRZKoQ7Dm4BrU2ccLJ-nUA0tJl60JJA6w&expires=1776118892&token_countries=BR&token_path=%2F76b463b6-4491-42ae-9711-79ebc73ea11c/76b463b6-4491-42ae-9711-79ebc73ea11c/720p/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viagemnaeletricidade.png" group-title="Viagem na Eletricidade", Viagem na Eletricidade Parte 1
-https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade.parte1.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viagemnaeletricidade.png" group-title="Viagem na Eletricidade", Viagem na Eletricidade Parte 2
-https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade.parte2.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viagemnaeletricidade.png" group-title="Viagem na Eletricidade", Viagem na Eletricidade Parte 3
-https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade.parte3.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viagemnaeletricidade.png" group-title="Viagem na Eletricidade", Viagem na Eletricidade Parte 4
-https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade.parte4.mp4
-
 ##Assim que funciona 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/assimquefunciona.png" group-title="Assim que funciona", Assim que funciona ep01
