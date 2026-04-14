@@ -20,7 +20,7 @@ https://isaocorp.cloudecast.com/redemeio/index.m3u8
 https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvassembleia.png" group-title="📺Canais locais",Tv Assembleia (PI)
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="📺Canais locais", RedeTV! O Dia (PI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvodia.png" group-title="📺Canais locais", RedeTV! O Dia (PI)
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvgallo.png" group-title="📺Canais locais", TV Gallo Jaicos (PI)
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
